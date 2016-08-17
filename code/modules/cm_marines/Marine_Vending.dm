@@ -189,7 +189,8 @@
 						/obj/item/weapon/airlock_electronics = 10,
 						/obj/item/weapon/module/power_control = 10,
 						/obj/item/weapon/airalarm_electronics = 10,
-						/obj/item/weapon/cell/high = 10
+						/obj/item/weapon/cell/high = 10,
+						/obj/item/clothing/suit/storage/marine/Engi = 2
 					)
 	contraband = list()
 	premium = list()
@@ -253,7 +254,8 @@
 						/obj/item/weapon/reagent_containers/hypospray/autoinjector/Oxycodone = 3,
 						/obj/item/clothing/glasses/hud/health = 3,
 						/obj/item/weapon/storage/firstaid/regular = 4,
-						/obj/item/weapon/storage/firstaid/adv = 3
+						/obj/item/weapon/storage/firstaid/adv = 3,
+						/obj/item/clothing/suit/storage/marine/Medi = 2
 					)
 	contraband = list(
 					///obj/item/clothing/head/helmet/marine/medic = 2
