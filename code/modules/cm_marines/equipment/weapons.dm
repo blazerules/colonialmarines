@@ -95,12 +95,12 @@
 			if(istype(ticker.mode,/datum/game_mode/ice_colony))
 				new /obj/item/clothing/glasses/night/m56_goggles(src)
 				new /obj/item/smartgun_powerpack(src)
-				new /obj/item/clothing/suit/storage/smartgunner/snow(src)
+				new /obj/item/clothing/suit/storage/marine/smartgunner/snow(src)
 				new /obj/item/weapon/gun/smartgun(src)
 			else
 				new /obj/item/clothing/glasses/night/m56_goggles(src)
 				new /obj/item/smartgun_powerpack(src)
-				new /obj/item/clothing/suit/storage/smartgunner(src)
+				new /obj/item/clothing/suit/storage/marine/smartgunner(src)
 				new /obj/item/weapon/gun/smartgun(src)
 			opened = 1
 		..()
